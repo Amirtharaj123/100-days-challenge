@@ -4,6 +4,6 @@ class ex1
     {
         int a=5,b=10,c;
         c=a+b;
-        System.out.println("hello"+c);
+        System.out.println("hello "+c);
     }
 }
