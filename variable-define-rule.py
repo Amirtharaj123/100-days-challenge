@@ -1,0 +1,12 @@
+myvar="Amirtharaj"
+my_var="Amirtharaj"
+_my_var="Amirtharaj"
+myVar="Amirtharaj"
+MYVAR="Amirtharaj"
+myvar1="Amirtharaj"
+print(myvar)
+print(my_var)
+print(_my_var)
+print(myVar)
+print(MYVAR)
+print(myvar1)
